@@ -366,7 +366,7 @@
  .ti-rss:before{content:"\e75e"}
  .ti-rss-alt:before{content:"\e75f"}
 
- .logo-thumb{width: 150px; height: auto;}
+ .logo-thumb{width: 150px; max-height: 150px;}
 /*!
 Animate.css - http://daneden.me/animate
 Licensed under the MIT license - http://opensource.org/licenses/MIT
